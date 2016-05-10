@@ -25,7 +25,7 @@ $(function() {
 
         it('are defined', function() {
             expect(allFeeds).toBeDefined();
-            expect(allFeeds.length).not.toBe(0);
+            expect(allFeedsLength).not.toBe(0);
         });
 
         it('URLs defined and not empty', function() {
