@@ -1,4 +1,4 @@
-# P7: Feed Reading Testing with Jasmine
+# Jasmine: Feed Reader Testing
 
 This project utilises Red-Green-Refactor development for a web-based application that reads RSS feeds. 
 
